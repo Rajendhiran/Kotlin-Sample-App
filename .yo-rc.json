@@ -1,0 +1,9 @@
+{
+  "generator-kotlin-android": {
+    "promptValues": {
+      "name": "NewYorkTimes",
+      "targetSdk": "26",
+      "minSdk": "15"
+    }
+  }
+}
