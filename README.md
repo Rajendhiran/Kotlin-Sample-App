@@ -1,4 +1,5 @@
 # Kotlin-Sample-App
+https://raw.githubusercontent.com/irontec/android-kotlin-samples/master/logo.png
 A sample MVP Android application written in Kotlina that fetches news using NYT APIs.
 
 Stack:
@@ -16,3 +17,4 @@ Stetho
 Espresso for UI tests
 Robolectric for framework specific unit tests
 Mockito
+
