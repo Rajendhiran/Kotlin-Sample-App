@@ -2,9 +2,6 @@
 
 A sample MVP Android application written in Kotlina that fetches news using NYT APIs.
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20MVP%20Starter-blue.svg?style=flat)](https://android-arsenal.com/details/3/5232)
-
-
 ## This project uses:
 - [RxJava2](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - [Retrofit](http://square.github.io/retrofit/) / [OkHttp](http://square.github.io/okhttp/)
