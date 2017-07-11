@@ -1,4 +1,6 @@
- ## This project uses: 
+# A sample MVP Android application written in Kotlin that fetches most popular news using NYT APIs.
+ 
+## This project uses: 
 - [RxJava2](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid) 
 - [Retrofit](http://square.github.io/retrofit/) / [OkHttp](http://square.github.io/okhttp/) 
 - [Gson](https://github.com/google/gson) 
