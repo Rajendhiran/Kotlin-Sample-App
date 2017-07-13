@@ -1,3 +1,6 @@
+[![Language](https://img.shields.io/badge/language-Java%7CKotlin-orange.svg)](https://kotlinlang.org/)
+[![Min SDK](https://img.shields.io/badge/min%20SDK-17-blue.svg)](http://developer.android.com/about/dashboards/index.html#Platform)
+
 # A sample MVP Android application written in Kotlin that fetches most popular news using NYT APIs.
  
 ## This project uses: 
